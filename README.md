@@ -6,11 +6,11 @@
 (Unable to upload source code due to confidentiality agreements)
 
 ### Tech Stack
-Next.js
-JavaScript
-Node.js
-CSS
-Styled Component Libraries
-Sanity CMS
-Snipcart API
-Stripe API
+- Next.js
+- JavaScript
+- Node.js
+- CSS
+- Styled Component Libraries
+- Sanity CMS
+- Snipcart API
+- Stripe API
